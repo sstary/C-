@@ -17,7 +17,6 @@ void test(){
 
 int main()
 {
-    cout<<"my whole love for my favourite girl --> Liang Xue"<<endl;
     test();
     return 0;
 }
